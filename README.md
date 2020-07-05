@@ -125,7 +125,7 @@ The full self-hosted solution
 
 ---
 
-OpenMole provide functions to explore diversity in _input_ or _output_
+OpenMole provides functions to explore diversity in _input_ or _output_
 <br>
 
 | ESCAPE | OpenMole |
@@ -149,7 +149,7 @@ What the _Pattern Space Exploration_ is for ?
 
 **Explaination of the PSE**
 
-How the _Pattern Space Exploration_ works ?
+How the _Pattern Space Exploration_ work ?
 
 ![w:1000](https://i.imgur.com/d1EdRsq.png)
 
@@ -168,7 +168,7 @@ COMOKIT use-case
 
 ---
 
-**Context**: OpenMole need a specific virtualizator (_Singularity_) to run GAMA
+**Context**: OpenMole needs a specific virtualizator (_Singularity_) to run GAMA
 
 **Problem**: That virtualizator is not install on the HPC
 
