@@ -120,12 +120,19 @@ _class: invert
 The full self-hosted solution
 
 ---
+![bg left:25% auto](https://avatars1.githubusercontent.com/u/9074912?s=200&v=4)
 
-# ![OpenMole logo](https://avatars1.githubusercontent.com/u/9074912?s=200&v=4)✖ ![Gama logo](https://avatars0.githubusercontent.com/u/1560449?s=200&v=4)
+# OpenMole
+
+- Free and open-source platform
+- Offers tools to run, explore, diagnose and optimize model
+- Distributed computing environments
+
+- Works with GAMA
 
 ---
 
-OpenMole provides functions to explore diversity in _input_ or _output_
+OpenMole provide functions to explore diversity in _input_ or _output_
 <br>
 
 | ESCAPE | OpenMole |
@@ -149,7 +156,7 @@ What the _Pattern Space Exploration_ is for ?
 
 **Explaination of the PSE**
 
-How the _Pattern Space Exploration_ work ?
+How the _Pattern Space Exploration_ works ?
 
 ![w:1000](https://i.imgur.com/d1EdRsq.png)
 
@@ -168,7 +175,7 @@ COMOKIT use-case
 
 ---
 
-**Context**: OpenMole needs a specific virtualizator (_Singularity_) to run GAMA
+**Context**: OpenMole need a specific virtualizator (_Singularity_) to run GAMA
 
 **Problem**: That virtualizator is not install on the HPC
 
